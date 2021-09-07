@@ -63,15 +63,7 @@
 					</excludes>
 				</configuration>
 			</plugin>
-<plugin>
-        <groupId>com.google.cloud.tools</groupId>
-        <artifactId>appengine-maven-plugin</artifactId>
-        <version>2.2.0</version>
-        <configuration>
-          <version>1</version>
-          <projectId>jovial-style-325104</projectId>
-        </configuration>
-      </plugin>
+
 		</plugins>
 	</build>
 
